@@ -8,3 +8,4 @@
   - Argo CD
   - Flux
   - Flagger
+- [Github Actions + HashiCorp Vault](https://www.youtube.com/watch?v=rhB72KFiL48)
